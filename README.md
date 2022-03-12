@@ -1,3 +1,3 @@
 #DEMO
 
-Here you van put some description.
+Here you can put some description.
